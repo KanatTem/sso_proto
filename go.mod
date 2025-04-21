@@ -1,4 +1,4 @@
-module sso_proto
+module github.com/KanatTem/sso_proto
 
 go 1.24
 
